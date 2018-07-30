@@ -8,7 +8,7 @@ class Student
     @name = name
     @age = age
     @enrolled = true
-    @instruments = nil
+    @instrument = nil
   end
 
   def enrolled?
